@@ -23,7 +23,7 @@ Now, if we are happy with the answer, a critical thing has to happen: the answer
 
 **4. _Second Labelling._** Once the Answer is sent out, we will get rid of the label “new” on the issue and we will add another label: “answered”.
 
-**5. _Documenting._** Yes, another critical step! :D Documenting means turning the answers we give into permanent documentation, which will reside in the corresponding sub-pages in the Wiki. As before, we will say an issue is Documented when all topics it raises are covered by existing or new documentation that we create. Once that is accomplished, we will label the issue as “documented”.
+**5. _Documenting._** Yes, another critical step! :D Documenting means turning the answers we give into permanent documentation, which will reside in the corresponding sub-pages in the Wiki. As before, we will say an issue is Documented when all topics it raises are covered by existing or new documentation that we create. Once that is accomplished, we will label the issue as “documented”. Do NOT get rid of the label "answered", the issue should now have both "answered" and "documented".
 
 **6. _Telling it's documented._** We are almost there… We have now answered and documented the issue. What’s left is to actually say in the issue thread that there is permanent documentation that addresses it. We will do so by posting a comment in the issue where we say “Documentation for this issue can be found in BLA”, where BLA will be the links (urls) to the corresponding Wiki subpages, we must list all that are pertinent.
 
