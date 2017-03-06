@@ -1,6 +1,8 @@
 # dwc-qa-manage
 Repository to handle the management of the Darwin Core Hour as well as the community input to the [tdwg/dwc-qa](https://github.com/tdwg/dwc-qa) repository, keeping it separate from the [Q&A repository](https://github.com/tdwg/dwc-qa)  to shield subscribers from irrelevant issues.
 
+All notes taken during the Darwin Core Hour webinars and during the management meetings can be found at:     
+[DwC Hour Team Collaborative Notes from Webinars](https://docs.google.com/document/d/1S_MzK5qhZVxGRNYDp6aslA2jZ-zo6m-KufLBqvc9IFY/edit#)
 
 #How do we manage the DwC Q&A site?
 ##The 7 Steps
