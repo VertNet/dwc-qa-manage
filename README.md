@@ -4,8 +4,8 @@ Repository to handle the management of the Darwin Core Hour as well as the commu
 All notes taken during the Darwin Core Hour webinars and during the management meetings can be found at:     
 [DwC Hour Team Collaborative Notes from Webinars](https://docs.google.com/document/d/1S_MzK5qhZVxGRNYDp6aslA2jZ-zo6m-KufLBqvc9IFY/edit#)
 
-#How do we manage the DwC Q&A site?
-##The 7 Steps
+# How do we manage the DwC Q&A site?
+## The 7 Steps
 
 The processing of an issue that has been submitted through the web input form happens in a series of 7 steps. These steps are meant for us be followed so that we can be consistent in the treatment of questions and answers and so that we achieve our goal: that people get their answers! :)
 
@@ -35,5 +35,5 @@ Now, if we are happy with the answer, a critical thing has to happen: the answer
 
 
 
-##Summary graph:
+## Summary graph:
 ![alt tag](https://github.com/VertNet/dwc-qa-manage/blob/master/ManagementWorkflow.png)
